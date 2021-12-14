@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\BinaryTo8\obj\Debug\BinaryTo8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\BinaryTo8\obj\Debug\BinaryTo8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BinaryTo8\bin\Debug\BinaryTo8.exe.config
+C:\Users\Admin\source\repos\BinaryTo8\bin\Debug\BinaryTo8.exe
+C:\Users\Admin\source\repos\BinaryTo8\bin\Debug\BinaryTo8.pdb
+C:\Users\Admin\source\repos\BinaryTo8\obj\Debug\BinaryTo8.exe
+C:\Users\Admin\source\repos\BinaryTo8\obj\Debug\BinaryTo8.pdb

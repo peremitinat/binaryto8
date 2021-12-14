@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTo8", "BinaryTo8.csproj", "{8C017822-9F9D-4003-9B22-BF846F2FC85A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C017822-9F9D-4003-9B22-BF846F2FC85A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C017822-9F9D-4003-9B22-BF846F2FC85A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C017822-9F9D-4003-9B22-BF846F2FC85A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C017822-9F9D-4003-9B22-BF846F2FC85A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CB7B6BC-B48B-4B2C-8CF2-B6CA3ACA1F6B}
+	EndGlobalSection
+EndGlobal
